@@ -1,4 +1,4 @@
-# Delhi_Weather_Time_Series_Analysis
+# Delhi Weather Time Series Analysis
 
 This project aims to predict the temperature at New Delhi, India using various time series concepts.
 
